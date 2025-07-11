@@ -1,5 +1,5 @@
 ---
-title: DARAMI의 블로그에 오신 것을 환영합니다!
+title: Woo-Seung's Notes
+draft: false
 ---
-
-다라미 블로그입니다!
+Welcome to Woo-Seung's Notes!
