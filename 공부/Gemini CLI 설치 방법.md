@@ -6,7 +6,7 @@ draft: false
 
 https://nodejs.org/en/download/current 에서 운영체제에 맞는 인스톨러를 다운한 후 node 설치
 
-![](Attachment/Pasted%20image%2020250712204053.png)
+![[Blog/공부/attachments/Pasted image 20250712205639.png]]
 
 터미널 창에서 아래 처럼 입력해서 node 설치 확인하기
 
