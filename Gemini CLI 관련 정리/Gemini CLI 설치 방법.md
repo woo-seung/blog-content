@@ -1,6 +1,7 @@
 ---
 title: 
 draft: false
+date: 2025-07-12
 ---
 # Window
 
