@@ -1,5 +1,5 @@
 ---
-title: 1. Gemini CLI 설치 방법
+title: 
 draft: false
 ---
 # Window
