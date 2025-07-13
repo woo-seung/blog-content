@@ -55,7 +55,7 @@ Gemini CLI에서 사용 가능한 명령어와 그 사용법에 대한 도움말
 
 ## /memory: 메모리 관리
 
-[[Gemini CLI GEMINI.md]] 파일로부터 로드된 작업 지시사항를 관리함.
+[[Gemini CLI GEMINI]] 파일로부터 로드된 작업 지시사항를 관리함.
 
 - `/memory add <기억할 내용>`: 입력한 텍스트를 AI의 메모리에 추가함.
 - `/memory show`: 현재 로드된 전체 메모리의 내용을 표시함.
