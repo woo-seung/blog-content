@@ -1,6 +1,7 @@
 ---
 title: Gemini CLI GEMINI.md
 draft: false
+date: 2025-07-13
 ---
 # GEMINI.md 란?
 

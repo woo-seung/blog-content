@@ -1,6 +1,7 @@
 ---
 title: 
 draft: false
+date: 2025-07-13
 ---
 Gemini CLI의 사용량을 확인하는 방법은 아래 두가지가 있음.
 
