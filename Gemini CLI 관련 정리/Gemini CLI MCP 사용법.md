@@ -57,7 +57,7 @@ MCP 서버에 연결해 gemini cli에 기본 제공되는 툴 외에도 커스�
 
 세팅한 후 터미널에서 gemini CLI를 실행한 후 `/mcp desc`를 입력하면 아래와 같이 설명이 나오는걸 확인할 수 있음.
 
-![[Pasted image 20250714123531.png]]
+![[Pasted image 20250715224952.png]]
 
 [이 글](https://www.reddit.com/r/Bard/comments/1lp13mx/geminicli_disappointing/)에서는 gemini CLI 사용 시 Sequential Thinking MCP 쓰는걸 강추한다고 함.
 

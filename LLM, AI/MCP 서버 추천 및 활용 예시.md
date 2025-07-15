@@ -9,10 +9,11 @@ date: ""
 Context7 keeps your project information current and accessible. Sequential Thinking structures your development process logically.
 
 [[Sequential Thinking]]
+그냥 LLM들의 리즈닝이랑 차이가 뭐지?
 
 [[taskmaster]]
-askmaster(이거보다는 sequantial thinking이 더 좋다는 평이 있어서 그냥 이건 안쓰기로..)
+이거보다는 sequantial thinking이 더 좋다는 평이 있어서 그냥 이건 안쓰기로..
 https://gist.ly/youtube-summarizer/comparing-taskmaster-mcp-sequential-thinking-mcp-and-augment-code-for-ai-coding
 
 [[magic MCP]]
-(이거는 나중에 프론트엔드 html이런거 만들때 써보기)
+이거는 나중에 프론트엔드 html이런거 만들때 써보기
