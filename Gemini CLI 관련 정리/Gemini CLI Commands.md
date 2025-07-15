@@ -27,7 +27,7 @@ Gemini CLI 사용 중 발견한 문제에 대해 이슈를 제출함. 기본적�
 /chat resume my-topic
 ```
 
-[[Gemini CLI Command-Line Arguments#--checkpointing (-c) 스냅샷 기능]]랑은 다른 개념임. 이건 대화 내용을 저장해두는 거임.
+[[Gemini CLI Command-Line Arguments#--checkpointing (-c) 스냅샷 기능|스냅샷 기능]]이랑은 다른 개념임. 이건 대화 내용을 저장해두는 거임.
 
 ## /clear: 화면 정리
 
@@ -56,7 +56,7 @@ Gemini CLI에서 사용 가능한 명령어와 그 사용법에 대한 도움말
 
 ## /memory: 메모리 관리
 
-[[Gemini CLI GEMINI]] 파일로부터 로드된 작업 지시사항를 관리함.
+[[Gemini CLI GEMINI|GEMINI.md]] 파일로부터 로드된 작업 지시사항를 관리함.
 
 - `/memory add <기억할 내용>`: 입력한 텍스트를 AI의 메모리에 추가함.
 - `/memory show`: 현재 로드된 전체 메모리의 내용을 표시함.
@@ -66,7 +66,7 @@ Gemini CLI에서 사용 가능한 명령어와 그 사용법에 대한 도움말
 
 도구가 파일을 수정한 경우, 실행 직전 상태로 프로젝트 파일을 복원함. 파일 편집 작업을 취소하고 싶을 때 유용함. `tool_call_id` 없이 실행하면 복원 가능한 체크포인트 목록을 보여줌.
 
-[[Gemini CLI Command-Line Arguments#--checkpointing (-c) 스냅샷 기능]] 옵션을 사용하거나 설정에서 활성화한 경우에만 사용 가능.
+[[Gemini CLI Command-Line Arguments#--checkpointing (-c) 스냅샷 기능|스냅샷]] 옵션을 사용하거나 설정에서 활성화한 경우에만 사용 가능.
 
 ```bash
 /restore [tool_call_id]
