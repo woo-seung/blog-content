@@ -23,6 +23,10 @@ gemini -c
 4. 파일 생성이 완료된 후 다시 `/restore` 명령을 실행하면, 복원 가능한 체크포인트 목록(파일 생선 전 상태)가 표시됨. 체크포인트 ID는 `timestamp-<filename>-<toolname>`와 같이 명명됨.
 5. 원하는 체크포인트의 ID를 선택하면 프로젝트가 해당 상태로 되돌아감.
 
+# 오류 발생시 문제 해결 방법
+
+"No restorable tool calls found." 라는 문구만 나온다면, 프로젝트 폴더에서 `git init`을 입력한 후, gemini cli를 재실행 해보기.
+
 ---
 
 위 내용은 아래 글들을 기반으로 정리한 내용임.
